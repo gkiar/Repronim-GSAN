@@ -1,7 +1,7 @@
 ---
-title: "A second part"
-teaching: 5
-exercises: 5
+title: "Introduction to Bash"
+teaching: 30
+exercises: 60
 questions:
 - "Can we break up the lesson into multiple parts?"
 objectives:

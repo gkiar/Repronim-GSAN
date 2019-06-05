@@ -1,18 +1,17 @@
 ---
-title: "An introduction to this lesson"
-teaching: 15
+title: "Reproducibility Summary"
+teaching: 30
 exercises: 0
 questions:
-- "What do we need a template for?"
+- "What is reproducibility?"
+- "What are some causes of a lack of reproducibility?"
 objectives:
 - "Edit lesson materials in the template"
 - "Contribute fixes through Github PRs"
 - "Use the template to create your own lesson"
 keypoints:
 - We want to use this template to provide lesson materials in an open and useful format.
-
 - This is in line with our overall goal of making science (including scientific training) more open.
-
 ---
 
 ### ReproNim is *open*

@@ -1,9 +1,14 @@
 ---
-layout: break
-title: "Morning Coffee"
-teaching: 0
-exercises: 0
-break: 15
+title: "Version Control with Git"
+teaching: 30
+exercises: 60
+questions:
+- "Can we break up the lesson into multiple parts?"
+objectives:
+- "See that you can have more than one part for the lesson"
+keypoints:
+- "We can add parts to the lesson, by adding more markdown files"
+- "You get the picture"
 ---
 
 Use the `break` layout to describe things you think people might want to

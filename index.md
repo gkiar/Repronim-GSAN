@@ -1,8 +1,9 @@
 ---
-layout: workshop
+layout: lesson
 instructor: Liza Levitis, Greg Kiar
 ---
 
+This workshop
 TODO: Here provide a very short (1 sentence) description of the module.
 
 This module is a part of the training curriculum from

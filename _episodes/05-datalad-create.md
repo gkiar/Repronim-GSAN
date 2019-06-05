@@ -1,7 +1,7 @@
 ---
-title: "Wrap-Up"
+title: "Creating Version Controlled Datasets"
 teaching: 15
-exercises: 0
+exercises: 45
 questions:
 - "What have we learned?"
 objectives:
