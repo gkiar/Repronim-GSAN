@@ -3,20 +3,21 @@
 #------------------------------------------------------------
 
 # What kind of thing is this ("workshop" or "lesson")?
-kind: "lesson"
+kind: "workshop"
 
 # Overall title for pages.
-title: "ReproNim lesson template"
+title: "ReproNim's HBHL Computational Reproducibility Workshop"
 
 # Repository URL (without trailing slash).
-repo: https://github.com/ReproNim/module-template
+repo: https://github.com/gkiar/Repronim-HBHL
 
 # Root URL below username.github.io domain, with leading slash but no trailing slash.
 # For example, for 'https://neurohackweek.github.io/lesson-example', use '/lesson-example'.
-root: "/module-template"
+root: "/Repronim-HBHL"
 
 # Contact email address.
-email: debian@onerussian.com
+email: elizabeth.levitis@mail.mcgill.ca, greg.kiar@mail.mcgill.ca 
+instructor: Liza Levitis, Greg Kiar
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).

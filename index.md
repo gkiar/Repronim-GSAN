@@ -1,5 +1,6 @@
 ---
-layout: lesson
+layout: workshop
+instructor: Liza Levitis, Greg Kiar
 ---
 
 TODO: Here provide a very short (1 sentence) description of the module.
