@@ -28,11 +28,11 @@ You will learn how to work properly with data such that changes to data and code
 ### What are the current lessons for this module?
 
 1. [Lesson 1.]({{site.root}}/01-reproducible-summary) Reproducibility summary
-2. [Lesson 2.]({{site.root}}/02-introduction- ) Introduction to ethics surrounding privacy, data sharing, and algorithmic decision-making
-3. [Lesson 3.]({{site.root}}/04-Data-Publishing) Overview of best practices in data publishing
-4. [Lesson 4.]({{site.root}}/05-Your-Laboratory-Datastore) Provides information on a number of research data management platforms
-5. [Lesson 5.]({{site.root}}/06-Semantic-Data-Representations) How to setup a testing framework to revalidate analyses as data and
-software change
+2. [Lesson 2.]({{site.root}}/02-introduction-bash) Introduction to bash
+3. [Lesson 3.]({{site.root}}/03-version-control) Overview of version control using Git
+4. [Lesson 4.]({{site.root}}/04-break) Coffee break
+5. [Lesson 5.]({{site.root}}/05-virtualization) Virtualization
+6. [Lesson 6.]({{site.root}}/06-datalad-create) Create a Datalad dataset
 
 ### Do I need to code ?  What language ?
 
