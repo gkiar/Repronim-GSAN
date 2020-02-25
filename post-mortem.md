@@ -7,6 +7,8 @@
 
 **Registrants (Attendees):** 30 (7)
 
+---
+
 **Event Overview:**
 - The objective of the workshop was to introduce graduate students to both Datalad and Boutiques, two key tools enabling the FAIR consumption/production of data and tools.
 - Students were taught from public resources, namely the Datalad Handbook and Boutiques NeuroLibre tutorial, in an effort to both increase the quality of these resources through feedback and demonstrate the process of education through open resources.
