@@ -1,8 +1,3 @@
----
-layout: lesson
-instructor: Liza Levitis, Greg Kiar
----
-
 # **Managing your Reproducible Experiments with Datalad and Boutiques**
 
 This event will be geared towards students in the life sciences who are interested in learning about how reproducible computational workflows can be implemented for data management and processing. This workshop is inspired by the Reproducible Neuroimaging (ReproNim) initiative which focuses on maximizing the impact and re-usability of scientific findings. This workshop is designed to be interactive as participants will gain hands-on experience working with a dataset and tools that tackle distinct challenges in creating reproducible scientific workflows. We will walk participants step by step through an example neuroimaging workflow where we will download a previously published dataset, explore the dataset, find a compatible processing tool for processing the data, use this tool, and visualize the produced derivatives. Participants will then learn how to share their analyses such that they can be reproduced. Lunch and refreshments will be provided.
