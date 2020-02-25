@@ -1,7 +1,10 @@
 ## GSAN Repronim Workshop (Post-Mortem)
 **Date:** February 22-23, 2020
+
 **Instructors:** Elizabeth Levitis, Gregory Kiar
+
 **Website:** https://github.com/gkiar/repronim-gsan 
+
 **Registrants (Attendees):** 30 (7)
 
 **Event Overview:**
