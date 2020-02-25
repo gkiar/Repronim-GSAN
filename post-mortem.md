@@ -1,11 +1,8 @@
 ## GSAN Repronim Workshop (Post-Mortem)
-**Date:** February 22-23, 2020
-
-**Instructors:** Elizabeth Levitis, Gregory Kiar
-
-**Website:** https://github.com/gkiar/repronim-gsan 
-
-**Registrants (Attendees):** 30 (7)
+**Date:** February 22-23, 2020 <br/>
+**Instructors:** Elizabeth Levitis, Gregory Kiar <br/>
+**Website:** https://github.com/gkiar/repronim-gsan <br/>
+**Registrants (Attendees):** 30 (7) <br/>
 
 ---
 
@@ -21,7 +18,7 @@
 
 **Feedback:**
 - The in-depth nature of the designed workshop ended up being relevant to a limited audience. The technologies being introduced rely on a computer science background that some students lacked, limiting their ability to do more than follow along, while many of those who did have adequate background were able to use the resources without much support from the instructors.
+- Specific suggestions/comments on the Datalad Handbook resource in particular has been communicated with the resource developers and will be converted to GitHub issues.
 
 **Suggestions for Future:**
 - From our experience, it would make more sense to introduce these topics and tools in a short (1-2 hour) overview presentation, in which the motivations and benefits of the tools are introduced and links to the resources provided. Then, subscription to the Repronim mailing list, relevant GitHub repositories, and Neurostars would be encouraged as ways to get hands-on support using the guides when problems arise.
-
