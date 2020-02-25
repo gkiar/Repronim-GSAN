@@ -15,7 +15,7 @@ This event will be geared towards students in the life sciences who are interest
 - Upper-level undergraduate in science discipline
 - Graduate student in science discipline
 
-**Programming Experience**
+**Programmidng Experience**
 
 - Bash/Unix shell: must have (or be able to) complete [Software Carpentry Unix Tutorial](https://swcarpentry.github.io/shell-novice/)
 - Python: must have (or be able to) complete [Software Carpentry Python Tutorial](https://swcarpentry.github.io/python-novice-inflammation/)
@@ -33,9 +33,9 @@ This event will be geared towards students in the life sciences who are interest
   - [git-annex](https://git-annex.branchable.com/install/)
   - [Datalad](https://www.datalad.org/get_datalad.html)
 
-## **Schedule** 
+## Schedule
 
-### **Saturday Morning**
+### Saturday Morning
 - Using Remote Environments
   - Compute Canada
   - SSH
@@ -48,16 +48,16 @@ This event will be geared towards students in the life sciences who are interest
   - Downloading and Connecting to Singularity Containers
 
 
-### **Saturday Afternoon**
+### Saturday Afternoon
 
 - A walk through of the [Datalad Handbook](http://handbook.datalad.org/en/latest/)
   - Code snippets for [chapter 1](http://handbook.datalad.org/en/inm7/code_from_casts/01_dataset_basics_code.html) and [chapter 2](http://handbook.datalad.org/en/inm7/code_from_casts/02_reproducible_execution_code.html)
   - [Slides](https://github.com/datalad-handbook/course/blob/master/talks/PDFs/introduction_2h.pdf) created by Adina Wagner and the Datalad team
 
-### **Saturday Morning**
+### Saturday Morning
 - A walk through of the [Boutiques tutorial](https://github.com/neurolibre/boutiques-tutorial)
 
-### **Sunday Afternoon**
+### Sunday Afternoon
 - Finding datasets through Datalad 
   - Quiz: Find a dataset that has X
   - Quiz: Process data and save your results
@@ -65,11 +65,4 @@ This event will be geared towards students in the life sciences who are interest
   - Quiz: Find a tool that works with Y type of data
   - Quiz: Launch a tool to process data with Boutiques
   - Quiz: Create a Boutiques descriptor for a tool you know/use/want to use
-
-
-
-
-
-
-
 
