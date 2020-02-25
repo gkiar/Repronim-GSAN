@@ -36,6 +36,8 @@ This event will be geared towards students in the life sciences who are interest
 ## Schedule
 
 ### Saturday Morning
+- Overview and Motivation
+  - [Repronim](https://www.repronim.org/) tools, workshops, resources, and community
 - Using Remote Environments
   - Compute Canada
   - SSH
